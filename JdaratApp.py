@@ -8,15 +8,15 @@ st.markdown("<h4 style='text-align: right;'>بناخذ بيدك للطريق ا�
 st.markdown("<h3 style='text-align: right;'>اول خطوة خلينا نعرف قد ايش سوق العمل مهتم بالخريجين حديثا</h3>", unsafe_allow_html=True)
 st.markdown("<h4 style='text-align: right;'>مثل ما تشوف بالرسم البياني 60% من الوظايف الحالية لا تتطلب خبرة يعني ودهم فيك وبمهاراتك</h4>", unsafe_allow_html=True)
 
-st.image(r"C:\Users\Lama\OneDrive\سطح المكتب\Twaiq\week1\Usecase-5\p1.png", width=200, use_column_width=True)
+st.image("p1.png", width=200, use_column_width=True)
 
 
 st.markdown("<h4 style='text-align: right;'>نطمنك ان الوظايف في المملكة تبغاك سوى كنت بنت ولا ولد مثل ماتشوف بالرسم لبياني </h4>", unsafe_allow_html=True)
 
-st.image(r"C:\Users\Lama\OneDrive\سطح المكتب\Twaiq\week1\Usecase-5\p2.png", width=200, use_column_width=True)
+st.image("p1.png", width=200, use_column_width=True)
 
 
 st.markdown("<h3 style='text-align: right;'>اخيرا ينشوف سلم الرواتب للموظفين حديثي التخرح </h3>", unsafe_allow_html=True)
 st.markdown("<h4 style='text-align: right;'>مثل ماواضح في الرسم البياني ان حديثي التخرج تراوح رواتبهم من 4000 الى 6000</h4>", unsafe_allow_html=True)
 
-st.image(r"C:\Users\Lama\OneDrive\سطح المكتب\Twaiq\week1\Usecase-5\p3.png", width=200, use_column_width=True)
+st.image("p1.png", width=200, use_column_width=True)
