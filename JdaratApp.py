@@ -13,10 +13,10 @@ st.image("p1.png", width=200, use_column_width=True)
 
 st.markdown("<h4 style='text-align: right;'>نطمنك ان الوظايف في المملكة تبغاك سوى كنت بنت ولا ولد مثل ماتشوف بالرسم لبياني </h4>", unsafe_allow_html=True)
 
-st.image("p1.png", width=200, use_column_width=True)
+st.image("p2.png", width=200, use_column_width=True)
 
 
 st.markdown("<h3 style='text-align: right;'>اخيرا ينشوف سلم الرواتب للموظفين حديثي التخرح </h3>", unsafe_allow_html=True)
 st.markdown("<h4 style='text-align: right;'>مثل ماواضح في الرسم البياني ان حديثي التخرج تراوح رواتبهم من 4000 الى 6000</h4>", unsafe_allow_html=True)
 
-st.image("p1.png", width=200, use_column_width=True)
+st.image("p3.png", width=200, use_column_width=True)
